@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Svensson&#39;s web page</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Martin Svensson&#39;s web page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 13:40:37 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Firs Post</title>
+      <link>http://example.org/posts/my-firs-post/</link>
+      <pubDate>Sun, 25 Apr 2021 13:40:37 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-firs-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
